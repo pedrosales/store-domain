@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0pKHqqmz2MlNE5zW6ESFd0nE/XsS81R14w6AJ1fEeWy9B6PccnVA42QIbWLo9LTy18nvSn9cn+lVuiNqBnh0Q==",
+  "success": true,
+  "projectFilePath": "/home/pedro/Documents/store-api/Store.Domain/Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/flunt/1.0.4/flunt.1.0.4.nupkg.sha512",
+    "/home/pedro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/pedro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
